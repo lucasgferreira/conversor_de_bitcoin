@@ -1,6 +1,6 @@
 # Conversor de Bitcoin
 
-Demo [Conversor de bitcoin](https://github.com/lucasgferreira/valor-biticoin/)
+Demo [Conversor de bitcoin](https://lucasgferreira.github.io/valor-bitcoin/)
 
 API [blockchain Api](https://blockchain.info/api/exchange_rates_api)
 
