@@ -1,8 +1,10 @@
 # Conversor de Bitcoin
 
-Demo [Conversor de bitcoin](https://lucasgferreira.github.io/valor-bitcoin/)
 
-API [blockchain Api](https://blockchain.info/api/exchange_rates_api)
+## Demo [Conversor de bitcoin](https://lucasgferreira.github.io/valor-bitcoin/)
+![Conversor de Bitcoin](https://raw.githubusercontent.com/lucasgferreira/valor-bitcoin/master/prints/print_full_screen.png "Logo Title Text 1")
+
+### API utilizada para a coleta de dados [blockchain Api](https://blockchain.info/api/exchange_rates_api)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
